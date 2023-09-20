@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cooploop01
 - 👀 I’m interested in getting a way in the technology industry
-- 🌱 I’m currently learning IT and starting a bootcamp with THINKFUL
+- 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ways to find tech jobs
 - 📫 How to reach me: ringcooper@live.com
 
